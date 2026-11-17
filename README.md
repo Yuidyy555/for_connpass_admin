@@ -1,0 +1,2 @@
+# for_connpass_admin
+Connpassでイベント管理をする時用の画像参照用repo
